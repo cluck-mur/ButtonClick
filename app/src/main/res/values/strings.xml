@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="button_name">※タップ※</string>
+    <string name="textView">数字</string>
+    </resources>
